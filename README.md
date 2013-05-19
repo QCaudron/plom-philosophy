@@ -1,7 +1,7 @@
 plom-philosophy
 ===============
 
-The metaphysic of PLOM.IO
+The metaphysics of PLOM.IO
 
 TL;DR 
 

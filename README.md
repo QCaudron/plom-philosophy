@@ -236,19 +236,3 @@ License
 =======
 
 GPL version 3 or any later version.
-
-Acknowledgements
-================
-
-We want to thank:
-
-- Professor
-  [Bryan Grenfell](http://www.princeton.edu/eeb/people/display_person.xml?netid=grenfell)
-  for his continuous support and mentorship of PLoM, Sebastien
-  Ballesteros, and Tiffany Bogich.
-
-- Professor
-  [Bernard Cazelles](http://www.biologie.ens.fr/~cazelles/bernard/Welcome.html)
-  for his inspirational role in our early curriculum and his
-  continuous support of Joseph Dureau.
-
